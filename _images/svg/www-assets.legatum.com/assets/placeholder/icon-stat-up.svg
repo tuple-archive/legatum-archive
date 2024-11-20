@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27px" height="24px" viewBox="0 0 27 24" version="1.1">
+  <title>icon-stat-up</title>
+  <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="component/card/highlights/number-stat/desktop" transform="translate(-91.000000, 0.000000)" fill="#333333">
+      <g id="Group-3">
+        <g id="element/icon/growth/24px" transform="translate(91.000000, 0.000000)">
+          <path d="M-9.91207116e-13,0 L-9.91207116e-13,24 L26.1818182,24 L26.1818182,21.8181818 L2.18181818,21.8181818 L2.18181818,0 L-9.91207116e-13,0 Z M19.6363636,4.47796364 L21.5005091,6.34123636 L15.6584727,12.1824 L12.3866182,8.90967273 L4.38632727,16.7965091 L5.93192727,18.3412364 L12.3866182,11.9773091 L15.6584727,15.2500364 L23.0452364,7.86414545 L24.864,9.68203636 L26.1818182,3.13745455 L19.6363636,4.47796364 Z" id="Fill-1"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
