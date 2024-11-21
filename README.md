@@ -1,1 +1,1 @@
-🗃️ Archive of www.legatum.com
+🗃️ Archive of https://www.legatum.com
